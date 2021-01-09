@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3532cc8a-4fdf-4256-9408-2e36f453f943" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitignore.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
@@ -83,7 +85,7 @@
       <updated>1609097232947</updated>
       <workItem from="1609097234173" duration="3915000" />
       <workItem from="1610113573683" duration="4507000" />
-      <workItem from="1610195800658" duration="6457000" />
+      <workItem from="1610195800658" duration="7117000" />
     </task>
     <servers />
   </component>
